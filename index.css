@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.navbar{
+    background-color:black;
+    color:white;
+}
+.heading{
+    background-color: black;
+    padding-top: 10px;
+    color:white;
+}
+.img{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    display:flex;
+    justify-content:right;
+
+}
+.img2{
+    display:flex;
+    justify-content:center;
+}
+
+.nav{
+    display:flex;
+    justify-content:space-between;
+    padding-bottom:20px;
+}
+.course{
+    padding-left: 30px;
+}
+table{
+    padding-top: 2px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+div .head{
+    display:flex;
+    justify-content:space-between;
+}
+div .list2{
+    display:flex;
+    justify-content:space-between;
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
